@@ -18,7 +18,7 @@
     <tr>
       <td>Week 1</td>
       <td>Attention-Based Models for Speech Recognition</td>
-      <td><a href="https://arxiv.org/abs/1703.02111">Source 1</a></td>
+      <td><a href="https://arxiv.org/abs/1506.07503">Source 1</a></td>
     </tr>
     <tr>
       <td>Week 1</td>
@@ -38,12 +38,12 @@
     <tr>
       <td>Week 3</td>
       <td>Self-Attention Generative Adversarial Networks</td>
-      <td><a href="https://arxiv.org/abs/1904.05060">Source 5</a></td>
+      <td><a href="https://arxiv.org/abs/1805.08318">Source 5</a></td>
     </tr>
     <tr>
       <td>Week 3</td>
-      <td>Generative Models / UNSUPERVISED REPRESENTATION LEARNING</td>
-      <td><a href="https://arxiv.org/abs/1206.5538">Source 6</a></td>
+      <td>Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks</td>
+      <td><a href="https://arxiv.org/abs/1511.06434">Source 6</a></td>
     </tr>
     <tr>
       <td>Week 4</td>
