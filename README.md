@@ -22,6 +22,11 @@
     </tr>
     <tr>
       <td>Week 1</td>
+      <td>ImageNet Classification with Deep Convolutional Neural Networks</td>
+      <td><a href="https://dl.acm.org/doi/10.1145/3065386">Source 2</a></td>
+    </tr>
+      <tr>
+      <td>Week 1</td>
       <td>BERT Pre-training of Deep Bidirectional Transformers</td>
       <td><a href="https://arxiv.org/abs/1810.04805">Source 2</a></td>
     </tr>
@@ -45,10 +50,6 @@
       <td>Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks</td>
       <td><a href="https://arxiv.org/abs/1511.06434">Source 6</a></td>
     </tr>
-    <tr>
-      <td>Week 4</td>
-      <td>Review of All Papers</td>
-      <td>N/A</td>
-    </tr>
+  
   </tbody>
 </table>
