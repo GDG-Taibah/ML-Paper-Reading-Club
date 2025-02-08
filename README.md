@@ -40,6 +40,11 @@
       <td>Generative Adversarial Nets</td>
       <td><a href="https://arxiv.org/abs/1406.2661">Source 4</a></td>
     </tr>
+     <tr>
+      <td>Week 2</td>
+      <td>Deep Residual Learning for Image Recognition</td>
+      <td><a href="https://arxiv.org/abs/1512.03385">Source 4</a></td>
+    </tr>
     <tr>
       <td>Week 3</td>
       <td>Self-Attention Generative Adversarial Networks</td>
@@ -50,6 +55,12 @@
       <td>Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks</td>
       <td><a href="https://arxiv.org/abs/1511.06434">Source 6</a></td>
     </tr>
+       <tr>
+      <td>Week 3</td>
+      <td>Efficient Classification of Clinical Reports Utilizing Natural Language Processing</td>
+      <td><a href="https://cdn.aaai.org/ocs/5542/5542-23854-1-PB.pdf">Source 6</a></td>
+    </tr>
+    
   
   </tbody>
 </table>
